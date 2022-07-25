@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shilor
-- 👀 I’m interested in frontend web development (React, ArcGIS Javascript API, Node.js)
+- 👀 I’m interested in front-end web development (React, ArcGIS Javascript API, Node.js)
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/shilor/">LinkedIn</a>
 
 <!---
